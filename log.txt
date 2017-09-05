@@ -1,0 +1,9 @@
+User admin melakukan Login pada 15 Agustus 2017 14:45:38
+User "admin" melakukan input SPP pada 15 Agustus 2017 15:04:30
+User "" melakukan input Absensi pada 15 Agustus 2017 15:47:14
+User "admin" melakukan Login pada 15 Agustus 2017 15:51:45
+User "admin" melakukan input Absensi pada 15 Agustus 2017 15:52:07
+User "admin" melakukan input Data Santri pada 15 Agustus 2017 15:52:59
+User "admin" melakukan input Data Pengajar pada 15 Agustus 2017 15:56:48 
+User "admin" melakukan edit Data Santri pada 15 Agustus 2017 16:04:48 
+User "admin" melakukan edit Data Pengajar pada 15 Agustus 2017 16:07:22 
